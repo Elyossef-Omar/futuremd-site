@@ -16,3 +16,7 @@ During the 2024-2025 year, FutureMD will host two events in the Mississauga — 
 
 - Instagram: [futuremd_team](https://www.instagram.com/futuremd_team/)
 - LinkedIn: [FutureMD Team](https://www.linkedin.com/company/futuremdteam/)
+
+## Developers
+- Advay
+- Bobby
